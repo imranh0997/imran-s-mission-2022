@@ -9,7 +9,7 @@ font-family: 'Roboto', sans-serif;
 .orange_color{
     color: orange;
 }
-.first_parent{
+.first_section_top{
     display: flex;
     width: 80%;
     margin: 0 auto;
@@ -20,7 +20,7 @@ font-family: 'Roboto', sans-serif;
     width: 600px;
 }
 .explore_btn{
-    padding: 15px 50px;
+    padding: 15px 30px;
     background-color: rgb(249, 116, 93);
     font-weight: 700;
     border-radius: 10px;
@@ -35,7 +35,7 @@ font-family: 'Roboto', sans-serif;
 .all_targeted_img{
     width: 200px;
 }
-..all_targeted_img img{
+.all_targeted_img img{
     width: 100%;
 }
 
@@ -51,4 +51,7 @@ font-family: 'Roboto', sans-serif;
 }
 .goals {
     background-color: rgba(44, 180, 233, 0.467);
+}
+.delvelop_without_limit{
+    display: flex;
 }
