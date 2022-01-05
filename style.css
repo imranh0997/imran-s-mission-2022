@@ -1,6 +1,23 @@
 
 
 body{
+    margin: 0;
+    padding: 0;
     font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif;
+}
+.orange_color{
+    color: orange;
+}
+.first_btn{
+    width: 15px 30px;
+    background-color: 	rgb(0, 64, 255);
+}
+.first_parent{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+}
+.photo_top img{
+    width: 500px;
 }
