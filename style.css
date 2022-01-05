@@ -9,15 +9,46 @@ font-family: 'Roboto', sans-serif;
 .orange_color{
     color: orange;
 }
-.first_btn{
-    width: 15px 30px;
-    background-color: 	rgb(0, 64, 255);
-}
 .first_parent{
     display: flex;
     width: 80%;
     margin: 0 auto;
+    padding: 150px 0px;;
+    align-items: center;
 }
 .photo_top img{
-    width: 500px;
+    width: 600px;
+}
+.explore_btn{
+    padding: 15px 50px;
+    background-color: rgb(249, 116, 93);
+    font-weight: 700;
+    border-radius: 10px;
+
+}
+.explore_btn:hover {
+    color: white;
+}
+.second_section {
+    text-align: center;
+}
+.all_targeted_img{
+    width: 200px;
+}
+..all_targeted_img img{
+    width: 100%;
+}
+
+.second_section_target {
+    display: flex;
+    width: auto;
+}
+.mission{
+    background-color: rgba(249, 116, 93, 0.549)	
+}
+.vission{
+    background-color: rgb(211, 211, 248);
+}
+.goals {
+    background-color: rgba(44, 180, 233, 0.467);
 }
